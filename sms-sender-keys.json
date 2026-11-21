@@ -1,4 +1,4 @@
 {
   "BABA-1001": { "status": "inactive", "customer_name": "abc", "device": "abc123xyz" },
-  "BABA-1002": { "status": "inactive", "customer_name": "xyz", "device": "" }
+  "BABA-1002": { "status": "active", "customer_name": "Shubham", "device": "55e00b31accfd03b" }
 }
