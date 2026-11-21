@@ -1,4 +1,4 @@
 {
-  "BABA-1001": { "status": "active", "device": "abc123xyz" },
-  "BABA-1002": { "status": "revoked", "device": "" }
+  "BABA-1001": { "status": "active", "customer_name": "abc", "device": "abc123xyz" },
+  "BABA-1002": { "status": "revoked", "customer_name": "xyz", "device": "" }
 }
