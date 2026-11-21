@@ -1,0 +1,4 @@
+{
+  "BABA-1001": { "status": "active", "device": "abc123xyz" },
+  "BABA-1002": { "status": "revoked", "device": "" }
+}
